@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=F76CC3¢er=true&width=500&lines=Bem-vindo+a+minha+Stack!;Sou+Chaira+Santos.;Dev+Junior+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&pause=1000&color=3AC754¢er=true&width=500&lines=Bem-vindo+a+minha+Stack!;Sou+Leonardo+Borges.;Dev+Junior+%F0%9F%92%BB)](https://git.io/typing-svg)
 
-### 💻 Back-End | Banco de Dados | Node.js
+### 💻 Front-End | Sistema da Informação | Node.js
 
 <p>
 Em constante aprendizado, um commit de cada vez. 💜
@@ -41,10 +41,10 @@ src="https://custom-icon-badges.demolab.com/github/followers/SEU-USUARIO?color=2
 
 <p align="center">
   <img width="56%"
-       src="https://github-stats-extended.vercel.app/api?username=chairass&show_icons=true&theme=monokai&include_all_commits=true&hide_border=true&custom_title=Estatísticas"/>
+       src="https://github-stats-extended.vercel.app/api?username=lllllll889&show_icons=true&theme=monokai&include_all_commits=true&hide_border=true&custom_title=Estatísticas"/>
    
   <img width="37%"
-       src="https://github-stats-extended.vercel.app/api/top-langs/?username=chairass&theme=monokai&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true"/>
+       src="https://github-stats-extended.vercel.app/api/top-langs/?username=lllllll889&theme=monokai&layout=compact&custom_title=Tecnologias&langs_count=8&hide_border=true"/>
 </p>
 
 ## 📈 Atividade
